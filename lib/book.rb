@@ -1,4 +1,4 @@
-class Book 
+class Book
   def initialize(title)
     @title = title
   end
@@ -7,5 +7,5 @@ class Book
     @title
   end
 
-  
+
 end
